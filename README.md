@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonarchisimeu&label=Profile%20views&color=0e75b6&style=flat" alt="bonarchisimeu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bonarchisimeu" target="blank"><img src="https://img.shields.io/twitter/follow/bonarchisimeu?logo=twitter&style=for-the-badge" alt="bonarchisimeu" /></a> </p>
-
 - 🌱 I’m currently learning **fastify, spring boot**
 
 - 💬 Ask me about **react, nodejs**
