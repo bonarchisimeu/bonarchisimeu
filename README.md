@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonarchisimeu&label=Profile%20views&color=0e75b6&style=flat" alt="bonarchisimeu" /> </p>
 
-- 🌱 I’m currently learning **fastify, spring boot**
+- 🌱 I’m currently learning **CQRS, Event Sourcing, DDD**
 
 - 💬 Ask me about **react, nodejs**
 
