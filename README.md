@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonarchisimeu&label=Profile%20views&color=0e75b6&style=flat" alt="bonarchisimeu" /> </p>
 
-- 🌱 I’m currently learning **CQRS, Event Sourcing, DDD**
+- 📚 I’m currently learning **CQRS, Event Sourcing and DDD**
 
-- 💬 Ask me about **react, nodejs**
+- 💬 Ask me about **React, React Native**
 
 - 📫 How to reach me **bonarchisimeu@gmail.com**
 
